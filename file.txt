@@ -1,2 +1,6 @@
 feature 1
+<<<<<<< Updated upstream
 feature 2
+=======
+feature 3
+>>>>>>> Stashed changes
